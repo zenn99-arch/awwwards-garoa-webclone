@@ -1,7 +1,8 @@
 
 Visit- https://awwwards-garoa-webclone.vercel.app/
 
-![Scrrenshot](./src/components/img/screenshot.png)
+![garoa](https://github.com/zenn99-arch/awwwards-garoa-webclone/assets/72511459/f2384028-2444-4da9-ae50-412313c1228a)
+
 
 
 # Getting Started with Create React App
