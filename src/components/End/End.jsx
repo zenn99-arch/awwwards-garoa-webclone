@@ -20,21 +20,19 @@ const End = () => {
         Garoa<sup className="end-sup">&#174;</sup>
         </p>
         <div className="footer-links">
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-one">Shop</a> <br />
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-two">LookBook</a> <br />
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-three">legal</a>
+        <a href="" className="link-one">Shop</a> <br />
+        <a href="" className="link-two">LookBook</a> <br />
+        <a href="" className="link-three">legal</a>
         </div>
         <div className="footer-links-two">
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-one">About</a> <br />
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-two">Shoppingbag</a> <br />
-        <a href="https://www.instagram.com/chaniru.lk/" className="link-three">contact</a>
+        <a href="" className="link-one">About</a> <br />
+        <a href="" className="link-two">Shoppingbag</a> <br />
+        <a href="" className="link-three">contact</a>
         </div>
     </div>
-    <a href="https://www.instagram.com/chaniru.lk/" className="tag-three">
-        <img src={K} alt="" className="ig" />
-    </a>
-    <a href="https://www.instagram.com/chaniru.lk/" className="credit-link">@chaniru.lk Instagram</a>
-    <p className="reserves">All rights reserved 2022 - chaniru.lk<sup className="end-sup">&#174;</sup></p>
+   
+
+    <p className="reserves">All rights reserved 2022 <sup className="end-sup">&#174;</sup></p>
   </div>;
 };
 

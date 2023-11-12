@@ -18,7 +18,7 @@ const Six = () => {
     <div class="hover-three">
         <img src={HOV3} alt="" className="hover-pic" />
     </div>
-    <a href="https://www.instagram.com/chaniru.lk/" class="myButton-two">Shop all</a>
+    <a href="#" class="myButton-two">Shop all</a>
   </div>;
 };
 
